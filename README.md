@@ -1,4 +1,3 @@
-https://dev.azure.com/bekhan/Fabrikam/_apis/build/status/behram-kn.pipelines-dotnet-core?branchName=master
 [![Build Status](https://dev.azure.com/bekhan/Fabrikam/_apis/build/status/behram-kn.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/bekhan/Fabrikam/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
